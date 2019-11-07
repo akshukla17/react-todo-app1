@@ -1,0 +1,12 @@
+.products{
+    padding: 20px;
+    
+}
+.ul-deco{
+    list-style: none;
+}
+.prod-col{
+    font-family: sans-serif;
+    font-size: 25;
+    color: royalblue;
+}
